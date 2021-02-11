@@ -1,23 +1,47 @@
 # Multi server hoster
-A script allowing you to spamhost krunker servers easily. Use at your own risk. Hosting multiple lobbies at once is now a violation of Krunkers terms of service. Script can be seen in effect here: [Youtube - Multi-hoster script trailer by Starup](https://youtu.be/GkRFeEkxR3E)
+A script allowing you to spamhost krunker servers easily. Use at your own risk. Hosting multiple lobbies at once is now a violation of Krunkers terms of service.
+- Demo: [Youtube - Multi-hoster script trailer by Starup](https://youtu.be/GkRFeEkxR3E)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Multi-Server-Hoster%20(Done)%20(NON-TOS))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Multi-Server-Hoster%20(Done)%20(NON-TOS)/userscript.user.js)
 
 # Custom map ripper
-A script allowing you to rip any custom map in krunker, super easy to use. Stealing other peoples maps is a violation of Krunker's terms of service. Script can be seen in effect here: [Youtube - Map ripper](https://youtu.be/2ZQ8hGA-Md0)
+A script allowing you to rip any custom map in krunker, super easy to use. Stealing other peoples maps is a violation of Krunker's terms of service.
+- Demo: [Youtube - Map ripper](https://youtu.be/2ZQ8hGA-Md0)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Custom-Map-Ripper%20(WIP)%20(NON-TOS))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Custom-Map-Ripper%20(WIP)%20(NON-TOS)/userscript.user.js)
 
 # Multibuyer
-A script to massbuy skins quickly. Script can be seen in effect here: [Youtube - Krunker multi buyer](https://youtu.be/yPED0hI91X4)
+A console script to massbuy skins quickly.
+- Demo: [Youtube - Krunker multi buyer](https://youtu.be/yPED0hI91X4)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Multi-buyer%20(Done))
+- [Source](https://github.com/SwatDoge/Swats-Krunker-Tools/blob/main/Multi-buyer%20(Done)/userscript.user.js)
 
-# KR Gifting tax evader
-A script that evades krunker taxes when gifting kr. 5,263% fee instead of 10%. Script can be seen in effect here: [Youtube - Tax evasion](https://youtu.be/OD-E6-wINEk)
+
+# KR gifting tax evader
+A console script that evades krunker taxes when gifting kr. 5,263% fee instead of 10%. Script can be seen in effect here: 
+- Demo: [Youtube - Tax evasion](https://youtu.be/OD-E6-wINEk)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Tax-Evader%20(Done))
+- [Source](https://github.com/SwatDoge/Swats-Krunker-Tools/blob/main/Tax-Evader%20(Done)/userscript.user.js)
 
 # Class config patch
 A patch which fixes the class configuration (thus also fixing sliders). Allows for saving classes in presets.
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Class-config-patch%20(WIP))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Class-config-patch%20(WIP)/userscript.user.js)
 
 # Krunker customisation toggler
-A script which allows you to disable selected cosmetics. Can be seen in effect here: [Youtube - Customisation removal](https://youtu.be/KF6YfKshxUI)
+A script which allows you to disable selected cosmetics.
+- Demo: [Youtube - Customisation removal](https://youtu.be/KF6YfKshxUI)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Krunker-Customisation-Toggler%20(Deprecated))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Krunker-Customisation-Toggler%20(Deprecated)/userscript.user.js)
 
 # Speedometer
-A script which adds a cute spedometer to the bottom of your screen. Also has hooks for lighting calculation. Can be seen in effect here: [Youtube - Untitled](https://youtu.be/wz2-KIy_1Cw)
+A script which adds a cute spedometer to the bottom of your screen. Also has hooks for lighting calculation.
+- Demo: [Youtube - Untitled](https://youtu.be/wz2-KIy_1Cw)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Speedometer%20(WIP))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Speedometer%20(WIP)/userscript.user.js)
 
 # Chances validator
-A retired project used to dismantle fake gambling rates. Can be seen in effect here: [Youtube - Fake gambling rates are everywhere](https://youtu.be/a7Ppll5K1uw)
+A retired project used to dismantle fake gambling rates.
+- Demo: [Youtube - Fake gambling rates are everywhere](https://youtu.be/a7Ppll5K1uw)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Chances-validator%20(Retired))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Chances-validator%20(Retired)/userscript.user.js)
