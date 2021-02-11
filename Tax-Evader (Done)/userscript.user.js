@@ -1,10 +1,5 @@
 //--THIS IS A CONSOLE SCRIPT--\\
 
-//Go to the krunker store and filter it to an item/items you want.
-//Press CTRL+SHIFT+I to open console, then paste this script.
-//Modify the top values to your needs.
-//Press enter to run the script.
-
 var kr_amount = 100;             //Amount of kr you want to gift the user.
 var cooldown = 750;             //cooldown of the gifting in ms. Used to bypass krunker cooldown.
 
