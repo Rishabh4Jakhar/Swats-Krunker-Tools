@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  rips custom maps youre playing.
 // @author       Swat
+// @run-at       document-start
 // @match        *://krunker.io/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/0.1.26/msgpack.min.js
 // @grant        none
@@ -71,10 +72,7 @@ function create_map_button(){
     let button = document.createElement("div");
     default_button(button);
     button.innerText = "Public map";
-    button.onclick = function (){
-        if (input_field.value != "")
-            window.open("https://krunker.io/social.html?q=" + JSON.parse(input_field.value).name + "&p=map", "_blank");
-    }
+    button.onclick = () => {if (input_field.value != "") window.open("https://krunker.io/social.html?q=" + JSON.parse(input_field.value).name + "&p=map", "_blank")};
     return button
 }
 
