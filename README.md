@@ -18,7 +18,7 @@ A console script to massbuy skins quickly.
 
 
 # KR gifting tax evader
-A console script that evades krunker taxes when gifting kr. 5,263% fee instead of 10%. Script can be seen in effect here: 
+A console script that evades krunker taxes when gifting kr. 5,263% (EU notation) fee instead of 10%. Script can be seen in effect here: 
 - Demo: [Youtube - Tax evasion](https://youtu.be/OD-E6-wINEk)
 - [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Tax-Evader%20(Done))
 - [Source](https://github.com/SwatDoge/Swats-Krunker-Tools/blob/main/Tax-Evader%20(Done)/userscript.user.js)
