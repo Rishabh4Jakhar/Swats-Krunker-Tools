@@ -45,3 +45,8 @@ A retired project used to dismantle fake gambling rates.
 - Demo: [Youtube - Fake gambling rates are everywhere](https://youtu.be/a7Ppll5K1uw)
 - [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Chances-validator%20(Retired))
 - [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Chances-validator%20(Retired)/userscript.user.js)
+
+# Krunker mapping competition announcement patch
+A patch that adds an announcement for the krunker mapping competition.
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Krunker-Mapping-Comp-Announcement-Patch%20(Done))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Krunker-Mapping-Comp-Announcement-Patch%20(Done)/userscript.user.js)
