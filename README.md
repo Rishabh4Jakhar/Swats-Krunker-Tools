@@ -50,3 +50,8 @@ A retired project used to dismantle fake gambling rates.
 A patch that adds an announcement for the krunker mapping competition.
 - [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Krunker-Mapping-Comp-Announcement-Patch%20(Done))
 - [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/Krunker-Mapping-Comp-Announcement-Patch%20(Done)/userscript.user.js)
+
+# AlwaysSingleSegment
+An extension that will always disply a single segment of health regardless of the server settings. Useful for mods that use single segment healthbars.
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/AlwaysSingleSegment%20(Done))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/AlwaysSingleSegment%20(Done)/userscript.user.js)
