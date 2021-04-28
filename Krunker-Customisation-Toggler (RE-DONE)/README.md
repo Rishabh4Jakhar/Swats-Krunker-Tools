@@ -12,4 +12,4 @@
 # Modify your preferences:
 simply change the values in your script code:
 
-![](https://i.imgur.com/qSzoIak.png)
+![](https://i.ibb.co/z78Fc50/Capture.png)
