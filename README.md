@@ -55,3 +55,6 @@ A patch that adds an announcement for the krunker mapping competition.
 An extension that will always disply a single segment of health regardless of the server settings. Useful for mods that use single segment healthbars.
 - [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/AlwaysSingleSegment%20(Done))
 - [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/raw/main/AlwaysSingleSegment%20(Done)/userscript.user.js)
+
+# Swat's alternate krunker editor dark mode
+Adds Swat's preferences to the krunker editor dark mode.
