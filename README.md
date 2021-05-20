@@ -58,3 +58,9 @@ An extension that will always disply a single segment of health regardless of th
 
 # Swat's alternate krunker editor dark mode
 Adds Swat's preferences to the krunker editor dark mode.
+
+# Swat's rainbow skies
+HOLY SHIT WOOOOOOOOOOOOOOOOOOOOOOOOOOO
+- Demo: [Youtube - Its 2 am but you're making krunker scripts](https://youtu.be/QHQQTRWRWxQ)
+- [Page](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Swat's%20rainbow%20skies%20(Done))
+- [Install](https://github.com/SwatDoge/Swats-Krunker-Tools/tree/main/Swat's%20rainbow%20skies%20(Done)/userscript.user.js)
